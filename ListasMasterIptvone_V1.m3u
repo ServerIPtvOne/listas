@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="IPTVONE INFO" tvg-logo="https://gitlab.com/iptvone.soporte/files-iptvone-app/-/raw/0b8d8e450f4b06de206aef51bd4eb8a006c5818f/LOGO%20IPTVONE.png" group-title="INFO",IPTVONE INFO
-https://drive.google.com/drive/u/1/folders/1TyQROge4IEF3unx4D9138uw9LdqTw9W6
+
+#EXTINF:-1 tvg-logo="https://gitlab.com/iptvone.soporte/files-iptvone-app/-/raw/0b8d8e450f4b06de206aef51bd4eb8a006c5818f/LOGO%20IPTVONE.png" group-title="INFO",IPTVONE INFO
+https://gitlab.com/iptvone.soporte/files-iptvone-app/-/raw/master/CANAL%20IPTV.mp4
